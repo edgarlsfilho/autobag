@@ -3,14 +3,14 @@
 Route bags to their flights or baggage claim.
 
 # Clonning, installing, testing and running
-git clone https://github.com/edgarlsfilho/autobag
+`git clone https://github.com/edgarlsfilho/autobag`
 
 # Installing
-mvn install
+`mvn install`
 
 # Testing
-mvn test
+`mvn test`
 
 # Running
-cd target
-java -jar autobag-1.0-SNAPSHOT.jar ../airport.txt
+`cd target`
+`java -jar autobag-1.0-SNAPSHOT.jar ../airport.txt
