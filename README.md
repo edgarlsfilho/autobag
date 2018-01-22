@@ -12,5 +12,7 @@ Route bags to their flights or baggage claim.
 `mvn test`
 
 # Running
-`cd target`
-`java -jar  autobag-1.0-SNAPSHOT.jar ../airport.txt`
+```
+cd target
+java -jar  autobag-1.0-SNAPSHOT.jar ../airport.txt
+```
