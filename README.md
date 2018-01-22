@@ -2,7 +2,7 @@
 
 Route bags to their flights or baggage claim.
 
-# Clonning
+# Cloning
 ```
 git clone https://github.com/edgarlsfilho/autobag
 cd autobag
