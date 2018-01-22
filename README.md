@@ -13,4 +13,4 @@ Route bags to their flights or baggage claim.
 
 # Running
 `cd target`
-`java -jar autobag-1.0-SNAPSHOT.jar ../airport.txt
+`java -jar autobag-1.0-SNAPSHOT.jar ../airport.txt`
