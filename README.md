@@ -3,7 +3,10 @@
 Route bags to their flights or baggage claim.
 
 # Clonning, installing, testing and running
-`git clone https://github.com/edgarlsfilho/autobag`
+```
+git clone https://github.com/edgarlsfilho/autobag
+cd autobag
+```
 
 # Installing
 `mvn install`
